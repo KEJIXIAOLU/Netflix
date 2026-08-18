@@ -113,4 +113,37 @@
 <p>3、是否支持 4K 观影？</p>
 <p>部分平台及对应线路支持高画质播放。实际播放清晰度会受到套餐版本、片源规格、网络环境、播放设备及平台规则等因素影响，请以实际播放效果为准。</p>
 <p>有任何问题，可以联系工作人员或小露。欢迎入群一起学习交流：<a href="https://t.me/Kejixiaolu0" target="_blank">小露电报技术交流群</a></p>
+<p>更多合租平台：
+<p><strong>🎬🎬🎬观看奈飞等流媒体</strong>      </p>
+      <table width="95%" border="1" cellpadding="6">
+        <tbody>
+          <tr>
+            <td width="23%" align="center"><strong>流媒体平台</strong></td>
+            <td width="77%" align="center"><strong>特 点</strong></td>
+          </tr>
+          <tr>
+            <td align="center"><a href="https://www.ihezu.cn/?sid=dDpmVf" target="_blank">奈飞小铺</a></td>
+            <td align="left">稳定靠谱，价格实惠，翻车必赔。 【89折优惠码：KJXL】</td>
+          </tr>
+          <tr>
+            <td align="center"><a href="https://nf.video/TQ2q7" target="_blank">银河录像局</a></td>
+            <td align="left">ChatGPT、奈飞账号，翻车必赔。 【九折优惠码：kjxl39】</td>
+          </tr>
+          <tr>
+            <td align="center"><a href="https://universalbus.cn/r?s=xiaolu" target="_blank">环球巴士</a></td>
+            <td align="left">可月付，价格便宜，翻车必赔。【九折：kjxl39】</td>
+          </tr>
+          <tr>
+            <td align="center"><a href="https://popcorn.plus/home?i=c5882ded584a" target="_blank">爆米花</a></td>
+            <td align="left">一键整合多平台神器，不翻车不封号，目前仅支持PC端</td>
+          </tr>
+          <tr>
+            <td align="center"><a href="https://accboyytbkjxl.acceboy.com/" target="_blank">账号星球</a></td>
+            <td align="left">流媒体账号，价格实惠，翻车必赔。</td>
+          </tr>
+        </tbody>
+      </table>
+      <p><br>
+      </p>
+</p>
 <p>祝大家观影愉快！</p>
