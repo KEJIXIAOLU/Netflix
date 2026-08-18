@@ -20,7 +20,7 @@
 <table width="734" border="1">
   <tbody>
     <tr>
-      <td width="120" height="47" align="center"><strong>机 场</strong></td>
+      <td width="180" height="47" align="center"><strong>机 场</strong></td>
       <td width="194" align="center"><strong>价 格</strong></td>
       <td width="163" align="center"><strong>是否解锁奈飞等</strong></td>
       <td width="229" align="center"><strong>线路及优惠</strong></td>
