@@ -87,6 +87,49 @@
 <p>官方授权购买/注册渠道：<a href="https://popcorn.plus/?i=c5882ded584a" target="_blank">&gt;&gt;点击这里前往爆米花购买平台 </a></p>
 <p>  粉丝专享<strong> 88折</strong> 优惠码：<strong><span style="color: #D90003">xiaolu</span></strong></p>
 <p>  套餐建议：如果是全都要的轻度用户，直接选合租<strong>全功能套餐</strong>，性价比最高。</p>
+<p><strong>会员套餐价格</strong>      </p>
+      <table width="95%" border="1" cellpadding="6">
+        <tbody>
+          <tr>
+            <td width="12%" align="center"><strong>套 餐</strong></td>
+            <td width="12%" align="center"><strong>价 格</strong></td>
+            <td width="76%" align="center"><strong>内     容</strong></td>
+          </tr>
+          <tr>
+            <td align="center">全家桶</td>
+            <td align="left" style="text-align: center">58.88元/月</td>
+            <td align="left">一份会员即可畅看多个平台内容【 Netflix | Disney+ | Max 等】，适合经常追剧、看电影的重度用户。</td>
+          </tr>
+          <tr>
+            <td align="center">Netflix 奈飞</td>
+            <td align="left" style="text-align: center">16.88元/月</td>
+            <td align="left">无限量的电影、电视节目，以及更多精彩内容，涵盖热门美剧、电影和纪录片。美剧、电影、纪录片</td>
+          </tr>
+          <tr>
+            <td align="center">Disney+</td>
+            <td align="left" style="text-align: center">15.88元/月</td>
+            <td align="left">迪士尼、漫威、皮克斯、星战等丰富内容，适合家庭观影与经典影片爱好者。</td>
+          </tr>
+          <tr>
+            <td align="center">Prime video<br></td>
+      <td align="left" style="text-align: center">8.88元/月</td>
+            <td align="left">尽享精彩独播亚马逊原创和热门电影电视剧集，覆盖题材广泛。</td>
+          </tr>
+          <tr>
+            <td align="center">MAX</td>
+            <td align="left" style="text-align: center">8.88元/月</td>
+            <td align="left">探索 HBO、哈利波特、DC 等经典品牌的精彩内容，适合高品质剧集用户。</td>
+          </tr>
+          <tr>
+            <td align="center">Crunchyroll</td>
+            <td align="left" style="text-align: center">9.88元/月</td>
+            <td align="left">从热血番到冒险奇幻，提供一站式动漫天堂，适合二次元用户与动漫爱好者。</td>
+          </tr>
+        </tbody>
+      </table>
+      <p>
+      </p>
+   
 
 <p><strong>四、客户端下载与极速配置（保姆级教学）</strong></p>
 <p>官方客户端下载：https://popcorn.plus/download</p>
